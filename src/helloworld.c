@@ -1,5 +1,5 @@
 #include <Python.h>
-#include "/home/mdledoux/test.cpp/python3_extension/src/mylib.h"
+#include "mylib.h"
 
 static PyObject* helloworld(PyObject* self)
 {
